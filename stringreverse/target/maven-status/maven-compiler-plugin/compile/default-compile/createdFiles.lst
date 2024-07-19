@@ -1,5 +1,0 @@
-revclient.class
-com\mycompany\stringreverse\JakartaRestConfiguration.class
-com\mycompany\stringreverse\resources\JakartaEE10Resource.class
-revserver.class
-RevThread.class
